@@ -7,6 +7,13 @@
  --- | --- | --- 
  10 | 2022 | 94.6% 
  12 | 2024 | 88.8% 
+ | Sr. No| Subject Name    | Marks Obtained |
+| ------ | ----------------| ---------------|
+| 1 | General English | 92 | 
+| 2 | General Punjabi | 94 |
+| 3| Physics         | 83 |
+| 4 | Chemistry       | 95 |
+| 5 | Mathematics     | 91 |
 
 #### BEGINNING OF NEW PHASE IN THE JOURNEY OF LIFE FROM **GNDEC**
 ![gne_front](https://github.com/user-attachments/assets/56009dc6-d3c4-4b32-b143-e636892d0fcc)
