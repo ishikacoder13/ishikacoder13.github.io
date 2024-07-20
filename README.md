@@ -9,5 +9,6 @@
 | 10 | 2022 | 94.6% |
 | 12 | 2024 | 88.8% |
 #### BEGINNING OF NEW PHASE IN THE JOURNEY OF LIFE FROM **GNDEC**
-![GNDEC PIC](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F13655-guru-nanak-dev-engineering-college-gndec-ludhiana%2Fcourses-fees&psig=AOvVaw2LcbxmrjU5CQKi4VzmpcfJ&ust=1721545114909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOieue6FtYcDFQAAAAAdAAAAABAe)
-MY FIRST DAY i.e. 09-07-2024
+![gne_front](https://github.com/user-attachments/assets/56009dc6-d3c4-4b32-b143-e636892d0fcc)
+
+**MY FIRST DAY i.e. 09-07-2024**
