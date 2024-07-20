@@ -13,6 +13,7 @@
   * Data Manipulation Language
   * Data Definition Language
 
+[Report of 9 july](https://ishikacoder13.github.io/SIP-09-07-24.github.io/)
 ### My Academic Scores 
 
 | CLASS | YEAR | PERCENTAGE |
