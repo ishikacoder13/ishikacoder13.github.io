@@ -14,4 +14,26 @@
 ![gne_front](https://github.com/user-attachments/assets/56009dc6-d3c4-4b32-b143-e636892d0fcc)
 
 #### **MY FIRST DAY i.e. on 09-07-2024**
-> The most awaited day started with "Paath" in the **Gurudwara Sahib** of college. This was the best way to embark the journey with the blessings of Almighty. After that there was refreshment served for students. After that we got our files and moved to the **College Auditorium**.
+> The most awaited day started with "Paath" in the **Gurudwara Sahib** of college. This was the best way to embark the journey with the blessings of Almighty. After that there was refreshment served for students during Break Time . Later then, we got our files and marched straight to the **College Auditorium**. There were Interactive Sessions in which we were given useful information about College , Clubs/Societies. The brief overview of thesessions is inculcated below :-
+
+| Resource person
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Valuable Points |
+|----------------------------------|-----------------|
+|Dr. Arvind Dhingra | 
