@@ -4,7 +4,7 @@
 
 ### My Academic Scores 
 |**CLASS**|**YEAR**|**PERCENTAGE**|
-|---|---|---|
+|----|----|------|
 | 10 | 2022 | 94.6% |
 | 12 | 2024 | 88.8% |
 #### BEGINNING OF NEW PHASE IN THE JOURNEY OF LIFE FROM **GNDEC**
