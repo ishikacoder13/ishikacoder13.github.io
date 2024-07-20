@@ -2,8 +2,16 @@
 ## My Portfolio
 > It's a pleasure to introduce myself to all of you here. My name is ***ISHIKA*** and currently am pursuing my **B.Tech.** degree in *Computer Science* branch in *'Guru Nanak Dev Engineering College'* , Ludhiana. I have completed my 12th from *"Spring Dale Public School , Ludhiana."* I am the one who takes an initiative in learning new things . My aim is to be an *"Skillful Software Engineer"* who is going to contribute in developing new facilities. I believe in team work and has a very unique approach about leading and working in a team . "***There's a lot to learn and know if one has the courage to follow it by heart.***" I believe in this saying and rely upon it in order to groom myself. I have participated in English, Hindi plays during Annual Function and have also won many prize in declamation contests. At present , am doing my Excel course and Power Searching course alongwith am a team member of ***Workshop 6*** of the group lead by **Dr. Hardeep Rai**.
 * I do have experience in Python
-  * 
-
+  * Data Handling using
+    * Data Structures , Numeric functions , Aggregate Functions
+    * Exporting - Importing CSV Files
+    * Data Plotting using Matplotlib
+* Also , I am knowledgeable about MySQL
+  * DBMS, RDBMS
+  * Functions
+  * Operations in Relations
+  * Data Manipulation Language
+  * Data Definition Language
 
 ### My Academic Scores 
 
@@ -20,7 +28,9 @@
 ##### Resource Person Dr. Arvind Dhingra (TAC)
 > He is the one who told us about having the new perspective of life . He focused on showing and promoting unique ways about handling this new journey with utter sense of responsibilty .
  * First and the formost thought he shared is about "Change". It's true that we couldn't bring any change in ourselves unless and untill we are determined enough to bring that change . People , Teachers , Parents can guide us but it's only in our hands to change ourselves.
- * Secondly, he briefed us about the **"Best Music"** in the world i.e. "** Heartbeat**" which promotes positive thinking .
+ * Secondly, he briefed us about the **"Best Music"** in the world i.e. "** Heartbeat**" which promotes positive thinking throughout life. It enhances the continuity of life having a good insight 
+
+ * 
 
   
 
