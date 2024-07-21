@@ -13,7 +13,6 @@
   * Data Manipulation Language
   * Data Definition Language
 
-[Report of 9 july](https://ishikacoder13.github.io/SIP-09-07-24.github.io/)
 ### My Academic Scores 
 
 | CLASS | YEAR | PERCENTAGE |
@@ -24,18 +23,8 @@
 #### BEGINNING OF NEW PHASE IN THE JOURNEY OF LIFE FROM **GNDEC**
 ![gne_front](https://github.com/user-attachments/assets/56009dc6-d3c4-4b32-b143-e636892d0fcc)
 
-#### **MY FIRST DAY i.e. on 09-07-2024**
-> The most awaited day started with "Paath" in the **Gurudwara Sahib** of College. This was the best way to embark the journey with the blessings of Almighty. After that there was refreshment served for students during "Break Time" . Later then, we got our files and marched straight to the **College Auditorium**. There were Interactive Sessions in which we were given useful information about College , Clubs/Societies. The brief overview of thesessions is inculcated below :-
-##### Resource Person Dr. Arvind Dhingra (TAC)
-> He is the one who told us about having the new perspective of life . He focused on showing and promoting unique ways about handling this new journey with utter sense of responsibilty .
- * First and the formost thought he shared is about "Change". It's true that we couldn't bring any change in ourselves unless and untill we are determined enough to bring that change . People , Teachers , Parents can guide us but it's only in our hands to change ourselves.
- * Secondly, he briefed us about the **"Best Music"** in the world i.e. "** Heartbeat**" which promotes positive thinking throughout life. It enhances the continuity of life having a good insight 
-
- * 
-
-  
-
-
+#### The Activity Reports of Induction Pogram is inculcated below :-  
+*[Report of 9 July, 2024](https://ishikacoder13.github.io/SIP-09-07-24.github.io/)
 
 
 
