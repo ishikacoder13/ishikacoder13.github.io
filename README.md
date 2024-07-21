@@ -24,7 +24,7 @@
 ![gne_front](https://github.com/user-attachments/assets/56009dc6-d3c4-4b32-b143-e636892d0fcc)
 
 #### The Activity Reports of Induction Pogram is inculcated below :-  
-*[Report of 9 July, 2024](https://ishikacoder13.github.io/SIP-09-07-24.github.io/)
+* [Report of 9 July, 2024](https://ishikacoder13.github.io/SIP-09-07-24.github.io/)
 
 
 
